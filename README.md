@@ -1,9 +1,9 @@
 # DeepSeek | 中文官网、DeepSeek网页版、API 调用和本地部署教程 | 最全使用指南~ 【2025年2月更新】
 
-> 更新：2025/02/14  
+> 更新：2025/02/14 
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
-本指南提供全面的 **DeepSeek 使用说明**，包含**DeepSeek 官网平替**、**DeepSeek网页版**、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
+本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://chat.lify.vip)、[**DeepSeek网页版**](https://chat.lify.vip)、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -17,9 +17,9 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：**[官网](https://www.deepseek.com/)【总是繁忙】、[一下AI](https://chat.lify.vip)【🔥快速🔥稳定🔥平替】
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [一下AI](https://chat.lify.vip)【🔥快速🔥稳定🔥平替】
 * **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/)
-* * **DeepSeek API：**[访问](https://platform.deepseek.com/)
+* **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
 ## 已接入 DeepSeek R1（官方平替）
