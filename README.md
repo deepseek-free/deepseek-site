@@ -1,6 +1,6 @@
 # DeepSeek | 中文官网、DeepSeek网页版、API 调用和本地部署教程 | 最全使用指南~ 【2025年2月更新】
 
-> 更新：2025/02/14 
+> 更新：2025/02/14  
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
 本指南提供全面的 **DeepSeek 使用说明**，包含**DeepSeek 官网平替**、**DeepSeek网页版**、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
@@ -114,12 +114,12 @@ Ollama是一个用于本地运行和管理 AI 模型的工具，用于与各种�
 * **Cloudflare：**[注册](https://developers.cloudflare.com/workers-ai/models/)
 * **Gitee AI：**[注册](https://ai.gitee.com/serverless-api)
 * **亚马逊 AWS：**[注册](https://aws.amazon.com/cn/blogs/aws/deepseek-r1-models-now-available-on-aws)
-* **阿里云：**[注册](https://pai.console.aliyun.com/#/quick-start/) | [教程](https://help.aliyun.com/zh/pai/user-guide/one-click-deployment-deepseek-v3-model)
-* **腾讯云：**[注册](https://cloud.tencent.com/product/hai) | [教程](https://cloud.tencent.com/developer/article/2492543)
+* **阿里云：**[注册](https://pai.console.aliyun.com/#/quick-start/) 、 [教程](https://help.aliyun.com/zh/pai/user-guide/one-click-deployment-deepseek-v3-model)
+* **腾讯云：**[注册](https://cloud.tencent.com/product/hai) 、 [教程](https://cloud.tencent.com/developer/article/2492543)
 * **百度智能云：**[注册](https://cloud.baidu.com/)
 * **火山引擎：**[注册](https://www.volcengine.com/)
-* **京东云：**[注册](https://www.jdcloud.com/) | [教程](https://docs.jdcloud.com/cn/yanxi-cap/practice-DeepSeek)
-* **华为昇腾社区：**[注册](https://www.hiascend.com/software/modelzoo/models) | [教程](https://www.hiascend.com/software/modelzoo/models/detail/68457b8a51324310aad9a0f55c3e56e3)
+* **京东云：**[注册](https://www.jdcloud.com/) 、 [教程](https://docs.jdcloud.com/cn/yanxi-cap/practice-DeepSeek)
+* **华为昇腾社区：**[注册](https://www.hiascend.com/software/modelzoo/models) 、 [教程](https://www.hiascend.com/software/modelzoo/models/detail/68457b8a51324310aad9a0f55c3e56e3)
 * **联通云电脑：**[注册](https://www.cucloud.cn/product/cuc.html)
 * **电信天翼云电脑：**[注册](https://www.ctyun.cn/products/tyydn)
 * **移动云：**[注册](https://ecloud.10086.cn/portal)
