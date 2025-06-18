@@ -1,9 +1,9 @@
 # DeepSeek | 中文官网、DeepSeek网页版、API 调用和本地部署教程 | 最全使用指南~ 【2025年6月更新】
 
-> 更新时间：2025/06/18                 
+> 更新时间：2025/06/20                 
 
-轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
-本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://chat.yixiaai.com)、[**DeepSeek网页版**](https://chat.yixiaai.com)、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
+轻松使用 [**DeepSeek 网页版**](https://chat.lanjingai.org)，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
+本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://chat.yixiaai.com)、[**DeepSeek网页版**](https://xsimplechat.com)、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.yixiaai.com)
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lanjingai.org)
 * **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/)
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
@@ -26,7 +26,7 @@
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com) - **DeepSeek网页版**，支持 **DeepSeep R1满血版**、V3模型~
 * **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
-* **🔥一下AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **AI大模型**，支持DeepSeek、ChatGPT 和 Claude最好的模型
+* **🔥极简AI：**[xsimplechat.com](https://xsimplechat.com/) - **AI大模型**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
 * **Cursor：**[访问](https://www.cursor.com/)
